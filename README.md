@@ -6,7 +6,7 @@ Dataset
 The dataset contains 7,032 customer records with 21 features, including:
 
 Demographic data (gender, SeniorCitizen, Partner, Dependents)
-
+    
 Service details (PhoneService, InternetService, Contract, PaymentMethod)
 
 Financial metrics (MonthlyCharges, TotalCharges, tenure)
